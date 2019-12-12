@@ -1,0 +1,15 @@
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\App.g.cs
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\MainWindow.baml
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Kim\DZ\WPF\WPF\Meeting_3\WpfApp1\obj\Debug\WpfApp1.pdb
